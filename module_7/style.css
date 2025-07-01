@@ -1,0 +1,72 @@
+/* Stroke classes */
+.stroke-black {
+    -fx-stroke: black;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-green {
+    -fx-stroke: green;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-red {
+    -fx-stroke: red;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-white {
+    -fx-stroke: white;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-blue {
+    -fx-stroke: blue;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-purple {
+    -fx-stroke: purple;
+    -fx-stroke-width: 3px;
+}
+
+.stroke-yellow {
+    -fx-stroke: yellow;
+    -fx-stroke-width: 3px;
+}
+
+/* Fill Classes */
+.fill-white {
+    -fx-fill: white;
+}
+
+.fill-green {
+    -fx-fill: green;
+}
+
+.fill-red {
+    -fx-fill: red;
+}
+
+.fill-blue {
+    -fx-fill: blue;
+}
+
+.fill-purple {
+    -fx-fill: purple;
+}
+
+.fill-yellow {
+    -fx-fill: yellow;
+}
+
+/* Styles defined by ID */
+
+#circle-green {
+    -fx-stroke: green;
+    -fx-fill: green;
+}
+
+#circle-red {
+    -fx-stroke: red;
+    -fx-fill: red;
+}
